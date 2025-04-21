@@ -1,4 +1,4 @@
-from ..GameAnalysis import win_prob_white_position
+from ..game_analysis import win_prob_white_position
 import chess
 STARTING_BOARD = chess.Board('rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1')
 
